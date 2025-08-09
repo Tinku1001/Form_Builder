@@ -178,7 +178,7 @@ const FormBuilderPage: React.FC = () => {
             color="rgba(255,255,255,0.8)"
             sx={{ fontWeight: 400, maxWidth: 600, mx: 'auto' }}
           >
-            Create beautiful, functional forms with drag-and-drop simplicity
+            Create beautiful, functional forms with simplicity
           </Typography>
         </Box>
 
