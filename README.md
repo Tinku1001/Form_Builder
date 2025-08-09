@@ -18,8 +18,10 @@ A dynamic form builder application built with React, TypeScript, Redux Toolkit, 
 - npm package manager
 - VSCode (recommended)
 
-### Step 1: Create React TypeScript Project
+### Step 1: How to use run this project
 
 ```bash
 clone this repository.
 cd <folder name>
+npm install
+npm run start
